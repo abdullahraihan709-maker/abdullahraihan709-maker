@@ -1,25 +1,41 @@
-<h1 align="center">Hi 👋, I'm Abdullah Raihan</h1>
-<h3 align="center">Passionate Full-Stack Web Developer from Bangladesh</h3>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdullah Raihan</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Frontend+Development+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-- 🔭 Currently building full-stack web applications with **React, Next.js, and TypeScript**
-- 🌱 Expanding my backend & full-stack architecture skills with **Next.js & Node.js**
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React**
+<br/>
+
+- 🔭 Currently building full-stack web applications with **React, Next.js, and TypeScript**.
+- 🌱 Expanding my backend & full-stack architecture skills with **Next.js & Node.js**.
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React**.
 - 📫 Reach me at: **abdullahraihan709@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+<!--- technology --->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/touhidcodes)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/touhidcodes)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next)](https://github.com/touhidcodes)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel)](https://github.com/touhidcodes)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/touhidcodes)
+
+
 
 ---
 
@@ -34,16 +50,19 @@
   </a>
 </p>
 
+
+
+
 ---
 
-### 📊 GitHub Activity & Stats
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahraihan709-maker&theme=react-dark&hide_border=true" alt="Abdullah's GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahraihan709-maker&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
