@@ -38,9 +38,6 @@
 ### Database:
 [![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/abdullahraihan709-maker)
 
-### Auth & Security:
-[![Database & Security](https://skillicons.dev/icons?i=better-auth,firebase-auth,jwt)](https://github.com/abdullahraihan709-maker)
-
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel)](https://github.com/abdullahraihan709-maker)
 
