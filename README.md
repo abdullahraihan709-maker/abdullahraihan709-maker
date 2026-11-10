@@ -27,19 +27,25 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/abdullahraihan709-maker)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/abdullahraihan709-maker)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/abdullahraihan709-maker)
+
+### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/abdullahraihan709-maker)
+
+### Auth & Security:
+[![Database & Security](https://skillicons.dev/icons?i=better-auth,firebase-auth,jwt)](https://github.com/abdullahraihan709-maker)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel)](https://github.com/abdullahraihan709-maker)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,figma,git,github,vscode)](https://github.com/abdullahraihan709-maker)
 
 
 
