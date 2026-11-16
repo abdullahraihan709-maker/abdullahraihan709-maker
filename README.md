@@ -19,6 +19,8 @@
 - 🌱 Expanding my backend & full-stack architecture skills with **Next.js & Node.js**.
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React**.
 - 📫 Reach me at: **abdullahraihan709@gmail.com**
+- 🌐 Portfolio: **[my-web-portfolio-seven-nu.vercel.app](https://my-web-portfolio-seven-nu.vercel.app/)**
+- 💼 LinkedIn: **[Abdullah Raihan](https://www.linkedin.com/in/abdullah-raihan-bd)**
 
 ---
 
@@ -56,6 +58,12 @@
   </a>
   <a href="https://facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-raihan-bd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://my-web-portfolio-seven-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
